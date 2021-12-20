@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lassv/tailwind-template.git",
+  "author": "lassev05 <vestergaardlasse2@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx live-server  --port=5000",
+    "css": "npx tailwindcss -i ./src/tailwind.css -o ./dist/style.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.7"
+  }
+}
