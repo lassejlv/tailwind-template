@@ -1,8 +1,8 @@
 ## Get started
 
-First of all you need [node.js]("https://nodejs.org/en/") and [npm](https://www.npmjs.com/).
+First of all you need [node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/).
 
-Then you can download the code via git or just [download]("https://ktlk.dk/OHH5u68")
+Then you can download the code via git or just [download](https://ktlk.dk/OHH5u68)
 
 ```bash
 git clone https://github.com/lassv/tailwind-template.git
